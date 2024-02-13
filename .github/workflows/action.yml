@@ -33,7 +33,7 @@ jobs:
         pip install request re beautifulsoup4
 
     - name: Run python script
-    - run: python parser.py
+      run: python parser.py
 
     - name: Commit files
       run: |
