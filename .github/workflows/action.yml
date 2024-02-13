@@ -30,7 +30,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install request re beautifulsoup4
+        pip install requests re beautifulsoup4
 
     - name: Run python script
       run: python parser.py
