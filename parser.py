@@ -39,8 +39,10 @@ def get_telegram_channel_info(url, admin_from_file=''):
 
         subscribers = soup.find('div', class_='tgme_page_extra').text \
             if soup.find('div', class_='tgme_page_extra') else '0'
-        subscribers_number = int(re.sub(r'\D', '', subscribers)) \
-            if re.sub(r'\D', '', subscribers).isdigit() else 0
+        if "online" in subscribers_text:
+            subscribers_number = subscribers_text
+        else:
+            subscribers_number = ' '.join(filter(str.isdigit, subscribers_text.split()))
 
         description = soup.find('div', class_='tgme_page_description').text.strip().lower() \
             if soup.find('div', class_='tgme_page_description') else ''
