@@ -34,6 +34,7 @@ https://t.me/critical_bug - bb, news
 https://t.me/bugbounty_chat - bb, chat
 https://t.me/v01dch4nn3l - news, tools, fun
 https://t.me/bugbounty1 - bb, news, tools
+https://t.me/Infsec_terms @@starii_zver - news, edu
 https://t.me/sysadm_in_up - news, tools
 https://t.me/ad_pohueque - news, osint, pentest
 https://t.me/puni_ne_hacker - news, tools
