@@ -42,9 +42,7 @@ def get_telegram_channel_info(url, admin_from_file=''):
             subscribers_for_sort = re.search(r'([\d\s]+) members', subscribers_text).group(1)
             subscribers_for_sort = ''.join(subscribers_for_sort.split())  
         else:
-            subscribers_for_sort = re.sub(r'[^0-9]', '', subscribers_text)
-
-        subscribers_for_sort = int(subscribers_for_sort) if subscribers_for_sort.isdigit() else 0
+            subscribers_for_sort = int(re.sub(r'[^\d]', '', subscribers_text.split(' ')[0]))
 
         if "online" in subscribers_text:
             subscribers_number = subscribers_text
@@ -98,9 +96,9 @@ def read_file_and_get_info(filename):
         parts = full_line.split(' - ')
         admin_from_file = '@' + parts[0].split('@')[1].strip() if '@' in parts[0] else ''
         tags = parts[1] if len(parts) > 1 else ''
-        title, subscribers_sort, subscribers_display, admin_info, description = get_telegram_channel_info(url, admin_from_file)
+        title, subscribers_for_sort, subscribers_display, admin_info, description = get_telegram_channel_info(url, admin_from_file)
         if title:
-            channels[url] = (title, subscribers_sort, subscribers_display, admin_info, description, url, tags)
+            channels[url] = (title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags)
 
     sorted_channels = sorted(channels.values(), key=lambda x: x[1], reverse=True)
 
@@ -116,7 +114,7 @@ def read_file_and_get_info(filename):
         outfile.write("| --- | --- | --- | --- | --- | --- |\n")
 
         for index, channel in enumerate(sorted_channels, start=1):
-            title, subscribers_sort, subscribers_display, admin_info, description, url, tags = channel
+            title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags = channel
             admin_display = admin_info if admin_info else ''
             output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {description} | {tags} \n"
             outfile.write(output_line)
