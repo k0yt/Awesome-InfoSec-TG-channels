@@ -33,7 +33,7 @@ jobs:
         pip install requests bs4
 
     - name: Run python script
-      run: python parser.py
+      run: python scraper.py
 
     - name: Commit files
       run: |

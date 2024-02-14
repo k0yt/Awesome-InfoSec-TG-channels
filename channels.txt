@@ -23,8 +23,7 @@ https://t.me/android_guards_today - news, tools, mobile
 https://t.me/bughunter_circuit - bb
 https://t.me/hacker_trick - news, eng
 https://t.me/gebutcher - news, tools, pentest
-https://t.me/news4hack - news, eng
-https://t.me/news4hack - news, tools, pentest
+https://t.me/news4hack - news, tools, pentest, eng
 https://t.me/ctfnews - news
 https://t.me/avdno - news, fun
 https://t.me/alexredsec - news, appsec
@@ -57,7 +56,7 @@ https://t.me/bugbounty2 - bb, news, tools
 https://t.me/chtivvvo - news, tools
 https://t.me/shmelovod - news, fun
 https://t.me/friendly_hacking - news
-https://t.me/HSE_LH - news, ctf
+https://t.me/HSE_LH - news, ctfreverse_domain
 https://t.me/nahruk_ib - news, fun
 https://t.me/lifetrainigs - news, tools, ctf
 https://t.me/bizonememe - bb, fun
@@ -66,24 +65,18 @@ https://t.me/kibhackctfchat
 https://t.me/razehell
 https://t.me/astras_thots
 https://t.me/TrTrTr8holes
-https://t.me/infosecmemes
 https://t.me/road2redteam
-https://t.me/nwnotes
 https://t.me/subchan
 https://t.me/tmgroupsecurity
 https://t.me/PlanetZhelezyaka
 https://t.me/dotrubic_memes
 https://t.me/reverse_domain
-https://t.me/SidneyJobChannel
-https://t.me/cloud_dungeon
-https://t.me/api_0
-https://t.me/cybershit
+https://t.me/cloud_dungeon @truebad0ur - news, tools, devops
 https://t.me/kkmthack
 https://t.me/girlinthemiddle - fun
 https://t.me/agile_minutes - fun
 https://t.me/citsecurity - не смотрел
 https://t.me/cryptooffensive - не смотрел
-https://t.me/cybersecurity_for_all - не смотрел
 https://t.me/cybersecurity_memes_off - не смотрел
 https://t.me/CyberSecurityTechnologies - не смотрел
 https://t.me/darkfox_info - не смотрел
@@ -105,7 +98,6 @@ https://t.me/mobile_appsec_world - не смотрел
 https://t.me/moseedo - не смотрел
 https://t.me/nwnotes - не смотрел
 https://t.me/osintfp - не смотрел
-https://t.me/pentest_mentor - не смотрел
 https://t.me/pntests - не смотрел
 https://t.me/podium_palace - не смотрел
 https://t.me/provalhistory - не смотрел
