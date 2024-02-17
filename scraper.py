@@ -111,7 +111,7 @@ def read_file_and_get_info(filename):
             outfile.write(f" {tag}")
         outfile.write("\n\n**Adding new channels in file 'channels.txt'**\n")
         outfile.write("\nUsage: \n > \<link> @<admin_name> - <tag_1>, <tag_2>\n\n")
-        outfile.write("| No | Name | Num of subs | Author | Thematics | Description |\n")
+        outfile.write("| No | Name | Num of subs | Admin | Thematics | Description |\n")
         outfile.write("| --- | --- | --- | --- | --- | --- |\n")
 
         for index, channel in enumerate(sorted_channels, start=1):
