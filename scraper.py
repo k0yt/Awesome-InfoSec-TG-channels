@@ -110,7 +110,7 @@ def read_file_and_get_info(filename):
         for tag in sorted(unique_tags):
             outfile.write(f" {tag}")
         outfile.write("\n\n**Adding new channels in file 'channels.txt'**\n")
-        outfile.write("> Usage: <link> @<admin_name> - <tag_1>, <tag_2>\n\n")
+        outfile.write("Usage: \n > \<link> @<admin_name> - <tag_1>, <tag_2>\n\n")
         outfile.write("| No | Name | Num of subs | Author | Thematics | Description |\n")
         outfile.write("| --- | --- | --- | --- | --- | --- |\n")
 
