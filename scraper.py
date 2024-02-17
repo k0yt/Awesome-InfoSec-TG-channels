@@ -31,18 +31,19 @@ def get_telegram_channel_info(url, admin_from_file=''):
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        title = sanitize_title(soup.find('div', class_='tgme_page_title').text) \
-            if soup.find('div', class_='tgme_page_title') else ''
-        title = title.strip()
+        title_element = soup.find('div', class_='tgme_page_title')
+        title = sanitize_title(title_element.text.strip()) if title_element else ''
 
-        subscribers_text = soup.find('div', class_='tgme_page_extra').text.strip() \
-            if soup.find('div', class_='tgme_page_extra') else '0 subscribers'
+        subscribers_text = soup.find('div', class_='tgme_page_extra').text \
+            if soup.find('div', class_='tgme_page_extra') else ''
+        subscribers_text = subscribers_text.strip()
 
-        if "members" in subscribers_text:
-            subscribers_for_sort = re.search(r'([\d\s]+) members', subscribers_text).group(1)
-            subscribers_for_sort = ''.join(subscribers_for_sort.split())  
-        else:
-            subscribers_for_sort = int(re.sub(r'[^\d]', '', subscribers_text.split(' ')[0]))
+        subscribers_for_sort = 0 
+        subscribers_number = '0 subscribers'
+
+        match = re.search(r'([\d\s]+) (members|subscribers)', subscribers_text)
+        if match:
+            subscribers_for_sort = int(''.join(match.group(1).split()))
 
         if "online" in subscribers_text:
             subscribers_number = subscribers_text
@@ -85,7 +86,6 @@ def read_file_and_get_info(filename):
 
             channels[url] = line
             
-            line_count += 1
             if len(parts) > 1:
                 tags_part = parts[1].split(',')
                 for tag in tags_part:
@@ -97,27 +97,29 @@ def read_file_and_get_info(filename):
         admin_from_file = '@' + parts[0].split('@')[1].strip() if '@' in parts[0] else ''
         tags = parts[1] if len(parts) > 1 else ''
         title, subscribers_for_sort, subscribers_display, admin_info, description = get_telegram_channel_info(url, admin_from_file)
-        if title:
+        if url != '' and subscribers_for_sort >= 1:
             channels[url] = (title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags)
+            line_count += 1
 
     sorted_channels = sorted(channels.values(), key=lambda x: x[1], reverse=True)
 
     with open('README.md', 'w', encoding='utf-8') as outfile:
         outfile.write("# Awesome-InfoSec-TG-channels \n\n")
-        outfile.write(f"{line_count-1} channels, for the most part RUS \n")
+        outfile.write(f"{line_count} channels, for the most part RUS \n")
         outfile.write(f"\n**{len(unique_tags)} Unique Tags:**\n")
         for tag in sorted(unique_tags):
             outfile.write(f" {tag}")
         outfile.write("\n\n**Adding new channels in file 'channels.txt'**\n")
         outfile.write("> Usage: <link> @<admin_name> - <tag_1>, <tag_2>\n\n")
-        outfile.write("| No | Name | Num of subs | Author | Description | Thematics |\n")
+        outfile.write("| No | Name | Num of subs | Author | Thematics | Description |\n")
         outfile.write("| --- | --- | --- | --- | --- | --- |\n")
 
         for index, channel in enumerate(sorted_channels, start=1):
             title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags = channel
             admin_display = admin_info if admin_info else ''
-            output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {description} | {tags} \n"
+            output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {tags} | {description} \n"
             outfile.write(output_line)
 
 
 read_file_and_get_info('channels.txt')
+

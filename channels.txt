@@ -77,7 +77,7 @@ https://t.me/bugbounty2 - bb, news, tools
 https://t.me/chtivvvo - news, tools
 https://t.me/shmelovod - news, fun
 https://t.me/friendly_hacking - news
-https://t.me/HSE_LH - news, ctfreverse_domain
+https://t.me/HSE_LH - news, ctf
 https://t.me/nahruk_ib - news, fun
 https://t.me/lifetrainigs - news, tools, ctf
 https://t.me/bizonememe - bb, fun
@@ -102,7 +102,6 @@ https://t.me/cybersecurity_memes_off - не смотрел
 https://t.me/CyberSecurityTechnologies - не смотрел
 https://t.me/darkfox_info - не смотрел
 https://t.me/dc7342 - не смотрел
-https://t.me/dc7495 - не смотрел
 https://t.me/fuckthissocialmaskk - не смотрел
 https://t.me/hacker_frei - не смотрел
 https://t.me/helloSOC - не смотрел
@@ -110,18 +109,14 @@ https://t.me/HNews - не смотрел
 https://t.me/infobes - не смотрел
 https://t.me/infosec1z - не смотрел
 https://t.me/InfoSec_and_Risk_Management - не смотрел
-https://t.me/infosecmemes - не смотрел
-https://t.me/InfoSecMemesProblemes - не смотрел
+https://t.me/infosecmemes - fun
 https://t.me/internal_pentest - не смотрел
 https://t.me/malwarehunters - не смотрел
-https://t.me/markcda_blog - не смотрел
 https://t.me/mobile_appsec_world - не смотрел
 https://t.me/moseedo - не смотрел
 https://t.me/nwnotes - не смотрел
-https://t.me/osintfp - не смотрел
 https://t.me/pntests - не смотрел
 https://t.me/podium_palace - не смотрел
-https://t.me/provalhistory - не смотрел
 https://t.me/purple_medved - не смотрел
 https://t.me/redteamalerts - не смотрел
 https://t.me/secharvester - не смотрел
@@ -153,7 +148,7 @@ https://t.me/searchack @seller1346 - news, tools
 https://t.me/kind_hack @seller1346 - news, tools
 https://t.me/nsis_cybersec @seller1346 - news, tools
 https://t.me/tomhunter @ibederov - news, osint, fun
-https://t.me/pro_pentest @r00t_owl - pentest, red team
+https://t.me/pro_pentest @r00t_owl - pentest, redteam
 https://t.me/tvoijazz @onejazz - news, tools, mobile
 https://t.me/RussianHackers_Channel @Ikwato - news, hackathon
 https://t.me/package_security @romanpnn - news, pentest, fun
@@ -162,7 +157,7 @@ https://t.me/cybersec_academy @school_network_feedback - news, tools
 https://t.me/cyberins @seller1346 - news, tools
 https://t.me/devopsslib @proglib_adv - news, devops
 https://t.me/NetSurvivalist @Beholderishere - news, tools, network
-https://t.me/RedTeambro @Riocool - … news, redteam, appsec, pentest
+https://t.me/RedTeambro @Riocool - news, redteam, appsec, pentest
 https://t.me/itsec_news @cyberhackGL - news
 https://t.me/crackcloud @malwar - news, tools
 https://t.me/sec_devops @surmatmg - news, tools, appsec
@@ -180,14 +175,13 @@ https://t.me/YAH_Channel @empty_jack - news, pentest
 https://t.me/avleonovrus @leonov_av - legend
 https://t.me/InfoBezEvents @InfoBez_admin - news
 https://t.me/netrunnerz @TripiniFKYL - news, tools
-https://t.me/cursedpkt @cursedtcp - tools, networks
 https://t.me/nelezit @inikans - fun
-https://t.me/BountyOnCoffee @r0hack - bb legend
+https://t.me/BountyOnCoffee @r0hack - bb, legend
 https://t.me/postImpact @impact_l - news, tools
 https://t.me/secmedia @iw_valery - news
 https://t.me/CyberScoutszametki @CyberScoutLS - news, tools, pentest
 https://t.me/linkersec @xairy - news, tools, reverse
-https://t.me/pigPeter @ValyaRoller - (krevetk0) bb, news, pentest, fun
+https://t.me/pigPeter @ValyaRoller - bb, news, pentest, fun
 https://t.me/BeholderIsHereHub @Beholderisher - news, tools, fun
 https://t.me/pathsecure @CuriV - news, tools, pentest
 https://t.me/alarm_vali @vali_ax - news, osint
@@ -196,14 +190,14 @@ https://t.me/nosingularity @antonrevyako - news, tools, pentest
 https://t.me/tricky_python @korneevm - news, tools, py
 https://t.me/justsecurity @popsa_lizaa - news, pentest
 https://t.me/spbctfnews @mrvos - news, ctf
-https://t.me/XackITEasy @wi_max - news, tools. redteam
+https://t.me/XackITEasy @wi_max - news, tools, redteam
 https://t.me/pain_test @W0lFreaK - bb, news, pentest
 https://t.me/reverse_dungeon @truebad0ur - news, tools, reverse
 https://t.me/masterbeched @beched - news, pentest
 https://t.me/api_0 @Romanov_ask - news, pentest
 https://t.me/infobase999 @Sergey646 - news, tools, osint
 https://t.me/bughuntertips @reewardius - bb, news, tools
-https://t.me/blueteamlibrary @W0rk3r - news, tools, blue team
+https://t.me/blueteamlibrary @W0rk3r - news, tools, blueteam
 https://t.me/fuckwebsec @fkshell - news, tools, fun
 https://t.me/mephictf @pturtle - news, ctf
 https://t.me/makrushin @makrushind - news, appsec
@@ -217,16 +211,16 @@ https://t.me/kibinfo @prestofiesta - news, tools
 https://t.me/greg0r0_life_and_work @greg0r0 - news, tools
 https://t.me/r1v3ns_life @rive_n - bb, news, tools, appsec, redteam
 https://t.me/securixy_kz @clevergod - news, tools, pentest
-https://t.me/bh_cat @belka_e - red/purple team, appsec, tools
+https://t.me/bh_cat @belka_e - redteam, appsec, tools
 https://t.me/novitoll_ch @novitoll - news, tools, pentest
-https://t.me/b4cksp4ce_chat @ktp0li - … chat
+https://t.me/b4cksp4ce_chat @ktp0li - chat
 https://t.me/Ent_TranslateIB @pavel_Ib - news, books
 https://t.me/disasm_me_ch @hexadec1mal - news, tools
 https://t.me/pwnai @wearetyomsmnv - news, ai
 https://t.me/sanspie_notes @sanspie - news
 https://t.me/cbsctf @deviantwish - chat, ctf
 https://t.me/wr3dmast3rvs @wr3dmast3r - news, tools, appsec
-https://t.me/mireactf_chat @ivanh3 - … chat
+https://t.me/mireactf_chat @ivanh3 - chat
 https://t.me/kursux @Error7666 - news, fun
 https://t.me/KubanCSC @osoel1 - chat, ctf
 https://t.me/TrickeryHub @rekreker
@@ -237,7 +231,7 @@ https://t.me/qcakz @rockyou - news, pentest
 https://t.me/bugbeer @iSavAnna - bb, news
 https://t.me/woomoo @ilin_pt - news, fun
 https://t.me/ever_secure @int0x80h - news, appsec
-https://t.me/+TS7yGrOwxSJZP8Q3 @k0_oat - chat, students
+https://t.me/+TS7yGrOwxSJZP8Q3 @k0_oat - chat
 https://t.me/dotrubic @Rubikoid - news, tools
 https://t.me/school_timcore @timcore1 - news
 https://t.me/zema_notes @damnwaree - bb, news, tools
@@ -268,7 +262,6 @@ https://t.me/hackthishit @tokiakasus
 https://t.me/ryans_lounge @ryanwatchesyou
 https://t.me/uslssstuff @DCNick3
 https://t.me/By3side @TG_3side
-https://t.me/Nagasawainsides @Naga4sawa
 https://t.me/pt_soft @exited3n
 https://t.me/cybersecurity_for_all @adkkkkkkkk
 https://t.me/offensiveosint @adkkkkkkkk
