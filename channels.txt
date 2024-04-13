@@ -1,4 +1,12 @@
+https://t.me/qalliance - chat, it
+https://t.me/it52info - news, it
+https://t.me/jobsit52 - job, it
+https://t.me/ITnewsshort - news, it
+https://t.me/kaf42
+https://t.me/offsecnotes
+https://t.me/mamkin_cyber - news
 https://t.me/cyber_cabb @kkahovskaya - news
+https://t.me/leshamarshal @LeshMarshal - blog
 https://t.me/vxunderground - news
 https://t.me/pandora_intelligence - news, osint
 https://t.me/bolgarkachat - chat
@@ -6,14 +14,14 @@ https://t.me/seclemur @ban_alex - news, tools
 https://t.me/qb_channel @qwerty_bubble - news, tools
 https://t.me/habr_com_news - news
 https://t.me/habr_com - news
-https://t.me/habr_career - hr
+https://t.me/habr_career - job
 https://t.me/habrcom - chat
 https://t.me/cyberin4 - news
-https://t.me/ict2go_ib - news, webinars
+https://t.me/ict2go_ib - news, events
 https://t.me/proudobstvo @GrekovM - news, it
 https://t.me/g33ks @shpaker - news, it
 https://t.me/tmfeed @shapker - news
-https://t.me/recruitersblog @irina_choy - hr
+https://t.me/recruitersblog @irina_choy - job
 https://t.me/reverb_neuron @evgenzhaba - fun
 https://t.me/R00TK1TOFF - news, apt
 https://t.me/info_vibe - news
@@ -21,14 +29,46 @@ https://t.me/NikazCloud @Nikazon - news
 https://t.me/secdet_team
 https://t.me/Skermajenie - hardware
 https://t.me/Cringe_OS @idxeed - fun
+https://t.me/news_inform_sec - news, tools
 https://t.me/miirs_kingdom @idxeed - news
-https://t.me/nahruk_ib - news, fun
 https://t.me/theaftertimes @aftertime - news, fun
 https://t.me/tat_chat @aftertime - chat
 https://t.me/it_secur @SEAdm1n - news, pentest
-https://t.me/BugBountyRu - news, bb
+https://t.me/BugBountyRu - business
+https://t.me/bugbountyru_chat - chat, bb
 https://t.me/yandex_bugbounty - news, bb
 https://t.me/CyberR3bel @arkiix - news, tools, bb
+https://t.me/bizone_bb - business
+https://t.me/Bugbountygroup - chat, bb
+https://t.me/bizonebb - chat, bb
+https://t.me/bizone_channel - business
+https://t.me/offzone_moscow - business
+https://t.me/F_A_C_C_T - business
+https://t.me/standoff_365 - business
+https://t.me/bugbounty - business
+https://t.me/codeby_sec - business
+https://t.me/CNewsDaily - news
+https://t.me/SecLabNews - news
+https://t.me/true_secator - news
+https://t.me/Positive_Technologies - business
+https://t.me/phdaysmedia - business
+https://t.me/phdays - business
+https://t.me/jetnetworkteam - business
+https://t.me/vkontakte_hq - business
+https://t.me/inside_vk - business
+https://t.me/CYBERCAMP_ONLINE - business
+https://t.me/jetinfosystems - business
+https://t.me/RESOLUTEATTACK - business
+https://t.me/cyberedrussia - business
+https://t.me/CyberEd_CTF_chat - chat
+https://t.me/croc_it - business
+https://t.me/crocteam - job
+https://t.me/brainzbycroc - job
+https://t.me/e_kaspersky - blog, news
+https://t.me/kasperskylab_ru @KasperskyCrew - business
+https://t.me/kasperskyb2b @KasperskyCrew - business
+https://t.me/solar_security - business
+https://t.me/standoff_365_chat - chat, bb
 https://t.me/nxblog @sypso - news, bb
 https://t.me/hackerblog @artrone - news, tools, pentest
 https://t.me/CyberSecurityTechnologies
@@ -75,7 +115,7 @@ https://t.me/proxy_bar - news, tools
 https://t.me/sysadm_in_channel - news, tools
 https://t.me/cybdetective - news, tools, osint
 https://t.me/w2hack - news, pentest
-https://t.me/in51d3 - news, tools, pentest
+https://t.me/in51d3 @n3m351da - news, tools, pentest
 https://t.me/CyberSachok @pDpDpDpDpDpDp1 - news
 https://t.me/cybershit - news, tools, appsec, fun
 https://t.me/ShizoPrivacy - news, tools
@@ -131,50 +171,65 @@ https://t.me/crpn_appsec - news, appsec
 https://t.me/kibhackctfchat
 https://t.me/razehell
 https://t.me/astras_thots
-https://t.me/TrTrTr8holes
+https://t.me/TrTrTr8holes - news, fun
 https://t.me/road2redteam @igorduino - news, tools
 https://t.me/igorduino_ch @igorduino - news, it
-https://t.me/subchan
 https://t.me/tmgroupsecurity
 https://t.me/PlanetZhelezyaka
-https://t.me/dotrubic_memes
+https://t.me/dotrubic_memes - fun
 https://t.me/reverse_domain
 https://t.me/cloud_dungeon @truebad0ur - news, tools, devops
 https://t.me/kkmthack
 https://t.me/girlinthemiddle - fun
 https://t.me/agile_minutes - fun
-https://t.me/citsecurity - не смотрел
-https://t.me/cryptooffensive - не смотрел
-https://t.me/cybersecurity_memes_off - не смотрел
-https://t.me/CyberSecurityTechnologies - не смотрел
+https://t.me/citsecurity - news, tools
+https://t.me/cryptooffensive - news, web3
+https://t.me/cybersecdugin - news, blog, tools
+https://t.me/cybersecurity_memes_off - news, fun
+https://t.me/CyberSecurityTechnologies - news, tools
 https://t.me/darkfox_info - news, it
-https://t.me/dc7342 - не смотрел
+https://t.me/mtsred_co - business
+https://t.me/dc7342 - chat
 https://t.me/fuckthissocialmaskk - news, tools, pentest, fun
-https://t.me/hacker_frei - не смотрел
-https://t.me/HNews - не смотрел
-https://t.me/infobes - не смотрел
-https://t.me/infosec1z - не смотрел
-https://t.me/InfoSec_and_Risk_Management - не смотрел
+https://t.me/hacker_frei - news, tools
+https://t.me/HNews - news
+https://t.me/belyaevsec @da_belyaev - news, fun
+https://t.me/infobes - news, tools
+https://t.me/infosec1z - news, tools, redteam
+https://t.me/InfoSec_and_Risk_Management - news, fun
 https://t.me/infosecmemes - fun
-https://t.me/internal_pentest - не смотрел
-https://t.me/malwarehunters - не смотрел
+https://t.me/internal_pentest - news, tools, pentest
+https://t.me/malwarehunters - news, ti
+https://t.me/lozerix_forum - news
 https://t.me/mobile_appsec_world - news, tools, mobile
-https://t.me/moseedo - не смотрел
-https://t.me/nwnotes - не смотрел
-https://t.me/pntests - не смотрел
-https://t.me/podium_palace - не смотрел
+https://t.me/moseedo @mokando - news, tools, fun
+https://t.me/nwnotes - news, tools
+https://t.me/pntests - tools, news
+https://t.me/Novostnik @Adm1nGmz - news
+https://t.me/ithumorlol @Adm1nGmz - fun
+https://t.me/kringengnigger - news, fun
+https://t.me/engnigger - news, fun
+https://t.me/podium_palace - news
 https://t.me/k8security @Qu3b3c - news, tools, k8s
 https://t.me/purple_medved - news, tools, redteam, pentest
-https://t.me/redteamalerts - не смотрел
-https://t.me/secharvester - не смотрел
-https://t.me/secinfosec - не смотрел
-https://t.me/secinfosex - не смотрел
-https://t.me/shybertchannel - не смотрел
-https://t.me/subchan - не смотрел
+https://t.me/redteamalerts - news, tools
+https://t.me/secharvester - news, tools
+https://t.me/secinfosec - chat
+https://t.me/secinfosex - news, blog
+https://t.me/shybertchannel @shybert - blog, tools
+https://t.me/subchan - news, blog, web3, fun
+https://t.me/misha98857_dev - tools
+https://t.me/lasagnahowto - tools
+https://t.me/cyberden_team - news
+https://t.me/illuminatyparty - news, blog
+https://t.me/MrCyberSec_channel - tools, news, pentest
+https://t.me/deteact_rnd - tools
+https://t.me/mflenov - news, tools
 https://t.me/unidataline - news, it, company
 https://t.me/Social_engineering @SEAdm1n - news, tools, osint
 https://t.me/hack_less @seller1346 - news, tools
 https://t.me/cyberyozh_official @cyberhackGL - news
+https://t.me/hackertoys @cyberhackGL - tools
 https://t.me/python2day @web_runner - news, tools
 https://t.me/irozysk @ibederov - news, osint
 https://t.me/codeby_sec @STPoV - news, tools, pentest
@@ -188,7 +243,7 @@ https://t.me/RalfHackerChannel @hackerralf8 - news, tools, pentest
 https://t.me/alexmakus @alexmaknet - news
 https://t.me/lab_hack @seller1346 - news, tools
 https://t.me/zhovner_hub @zhovner - news, tools, pentest
-https://t.me/webpwn @i_bo0om - legend
+https://t.me/webpwn @i_bo0om - news, tools, pentest
 https://t.me/infosec_globe @seller1346 - news, tools
 https://t.me/searchack @seller1346 - news, tools
 https://t.me/kind_hack @seller1346 - news, tools
@@ -211,18 +266,18 @@ https://t.me/exploitservice @ntsploit - news, tools, reverse
 https://t.me/cybred @cybred_admin - news, tools, pentest
 https://t.me/+B_oX20tky9Y4YWFi @empty_jack - chat, pentest
 https://t.me/osintby @admOSINTBY - news, osint
-https://t.me/secwebinars @pipiggi - news
+https://t.me/secwebinars @pipiggi - news, events
 https://t.me/bykvaadm @Bykva - news, devops
 https://t.me/poxek @szybnev - pentest, news, tools
 https://t.me/APT_Notes @Acrono - news, pentest
 https://t.me/tech_b0lt_Genona @rusdacent - news, tools
 https://t.me/hybgl @efbeadde - news, pentest
 https://t.me/YAH_Channel @empty_jack - news, pentest
-https://t.me/avleonovrus @leonov_av - legend
-https://t.me/InfoBezEvents @InfoBez_admin - news
+https://t.me/avleonovrus @leonov_av - news, tools
+https://t.me/InfoBezEvents @InfoBez_admin - news, events
 https://t.me/netrunnerz @TripiniFKYL - news, tools
 https://t.me/nelezit @inikans - fun
-https://t.me/BountyOnCoffee @r0hack - bb, legend
+https://t.me/BountyOnCoffee @r0hack - bb, news, tools
 https://t.me/postImpact @impact_l - news, tools
 https://t.me/secmedia @iw_valery - news
 https://t.me/CyberScoutszametki @CyberScoutLS - news, tools, pentest
@@ -230,6 +285,8 @@ https://t.me/linkersec @xairy - news, tools, reverse
 https://t.me/pigPeter @ValyaRoller - bb, news, pentest, fun
 https://t.me/BeholderIsHereHub @Beholderisher - news, tools, fun
 https://t.me/pathsecure @CuriV - news, tools, pentest
+https://t.me/web3pwn @CuriV - chat, web3
+https://t.me/thinkpad_aesthetics @CuriV - fun
 https://t.me/alarm_vali @vali_ax - news, osint
 https://t.me/s0i37_channel @s0i37 - news, tools, pentest
 https://t.me/nosingularity @antonrevyako - news, tools, pentest
