@@ -12,6 +12,7 @@ https://t.me/kaf42 - news, ctf
 https://t.me/mrnazu - news, tools, eng
 https://t.me/EvilWirelessMan - news, blog, network
 https://t.me/offsecnotes - news, tools, appsec, bb
+
 https://t.me/github_tg @skill8989 - tools
 https://t.me/zatelecom - news, blog, network
 https://t.me/ThreatIntelligenceSharing - news, ti
@@ -503,7 +504,7 @@ https://t.me/ocherkbb @k3ypt0 - bb, tools
 https://t.me/snakeslair @night_snake - news, fun
 https://t.me/hlfiles - books
 https://t.me/mockroasting @rus_devops - chat, devops
-https://t.me/fck_harder @e1tex - news, tools
+https://t.me/fck_harder @e1tex - news, tools, pentest
 https://t.me/m1swarr1or - news, hardware
 https://t.me/REDTalk_base @dolgihser - news, tools, pentest
 https://t.me/mirea_kib @k0_oat - news
