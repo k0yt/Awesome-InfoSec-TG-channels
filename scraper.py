@@ -64,7 +64,7 @@ def read_file_and_get_info(filename):
                 line_count += 1
                 
     sorted_channels = sorted(channels.values(), key=lambda x: x[1], reverse=True)
-    with open('R.md', 'w', encoding='utf-8') as outfile:
+    with open('README.md', 'w', encoding='utf-8') as outfile:
         outfile.write("# Awesome-InfoSec-TG-channels \n\n")
         outfile.write(f"{line_count} channels, for the most part RUS \n")
         outfile.write(f"\n**{len(unique_tags)} Unique Tags:**\n")
@@ -80,4 +80,4 @@ def read_file_and_get_info(filename):
             output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {tags} | {description} \n"
             outfile.write(output_line)
 
-read_file_and_get_info('ch.txt')
+read_file_and_get_info('sorted and uniq.txt')
