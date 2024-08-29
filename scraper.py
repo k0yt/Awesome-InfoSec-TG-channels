@@ -25,7 +25,9 @@ def get_telegram_channel_info(url, admin_from_file=''):
         if "if you have telegram, you can contact" in description:
             return '', 0, '', '', '', True
     except requests.exceptions.RequestException as e:
+        print('----------------------------------------------')
         print(f"Не удалось получить данные для {url}: {str(e)}")
+        print('----------------------------------------------')
         return '', 0, '', '', '', True
 
     title_element = soup.find('div', class_='tgme_page_title')
@@ -62,6 +64,8 @@ def read_file_and_get_info(filename):
                 channels[url] = (title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags)
                 unique_tags.update([tag.strip() for tag in tags.split(',')])
                 line_count += 1
+            else:
+                print(f'Ссылки протухли и не используются: \n{line_count} - {url}')
                 
     sorted_channels = sorted(channels.values(), key=lambda x: x[1], reverse=True)
     with open('README.md', 'w', encoding='utf-8') as outfile:
