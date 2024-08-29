@@ -36,7 +36,7 @@ def get_telegram_channel_info(url, admin_from_file=''):
     match = re.search(r'([\d\s]+) (members|subscribers)', subscribers_text)
     if match:
         subscribers_for_sort = int(''.join(match.group(1).split()))
-    subscribers_number = re.sub(r'[^\d]+', '', subscribers_text).strip() + " members" if subscribers_for_sort else '0 members'
+    subscribers_number = re.sub(r'(^\d+.\d+ )', '', subscribers_text).strip() + " members" if subscribers_for_sort else '0 members'
     admin_info = admin_from_file
     keywords_pattern = '|'.join([re.escape(keyword) for keyword in keywords])
     pattern = r'({})[^\w@]*(@[a-zA-Z0-9_]+)'.format(keywords_pattern)
