@@ -36,7 +36,7 @@ def get_telegram_channel_info(url, admin_from_file=''):
     match = re.search(r'([\d\s]+) (members|subscribers)', subscribers_text)
     if match:
         subscribers_for_sort = int(''.join(match.group(1).split()))
-    subscribers_number = re.sub(r'(^\d+.\d+ )', '', subscribers_text).strip() + " members" if subscribers_for_sort else '0 members'
+    subscribers_number = str(subscribers_for_sort) + " members" if subscribers_for_sort else '0 members'
     admin_info = admin_from_file
     keywords_pattern = '|'.join([re.escape(keyword) for keyword in keywords])
     pattern = r'({})[^\w@]*(@[a-zA-Z0-9_]+)'.format(keywords_pattern)
@@ -71,7 +71,7 @@ def read_file_and_get_info(filename):
         for tag in sorted(unique_tags):
             outfile.write(f" {tag}")
         outfile.write("\n\n**Adding new channels in file 'channels.txt'**\n")
-        outfile.write("\nUsage: \n > <link> @<admin_name> - <tag_1>, <tag_2>\n\n")
+        outfile.write("\nUsage: \n > https://t.me/link @admin_name - tag_1, tag_2\n\n")
         outfile.write("| No | Name | Num of subs | Admin | Thematics | Description |\n")
         outfile.write("| --- | --- | --- | --- | --- | --- |\n")
         for index, channel in enumerate(sorted_channels, start=1):
