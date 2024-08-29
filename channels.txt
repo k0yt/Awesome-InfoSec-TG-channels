@@ -14,7 +14,7 @@ https://t.me/+WVmp1rZDU-6y8kBh - chat, ctf
 https://t.me/+xm_pqV3djrZhYzBi
 https://t.me/a_storyteller_from_God
 https://t.me/ad_poheque - news, osint, pentest
-https://t.me/addlist/17y04EbNMrlhNjZi - proglib
+https://t.me/addlist/17y04EbNMrlhNjZi @https://t.me/addlist/17y04EbNMrlhNjZi 
 https://t.me/aenix_io - business, news
 https://t.me/agile_minutes - fun
 https://t.me/agony057
@@ -137,7 +137,6 @@ https://t.me/cissp - news, tools
 https://t.me/citsecurity - news, tools
 https://t.me/cKure - news
 https://t.me/ckuRED - news, pentest
-https://t.me/closed_character  
 https://t.me/cloud_dungeon @truebad0ur - news, tools, devops
 https://t.me/cloud_sec @dvyakimov - news, devsecops, eng
 https://t.me/cloudrutech - business
@@ -258,7 +257,7 @@ https://t.me/DOFH_ru - news, devops
 https://t.me/doroninit - news, blog, it
 https://t.me/dotrubic @Rubikoid - news, tools
 https://t.me/dotrubic_memes - fun
-https://t.me/DrWeb_antivirus
+https://t.me/DrWeb_antivirus - business
 https://t.me/ds_interview_lib
 https://t.me/ds_problems_lib
 https://t.me/DSASxCommunity - news
@@ -583,7 +582,7 @@ https://t.me/OffensiveTwitter - news
 https://t.me/offsecnotes @cotsom - news, tools, appsec, bb
 https://t.me/offzone_moscow
 https://t.me/onebrick
-https://t.me/giftfromtherift @razehell
+https://t.me/giftfromtherift @razehell - news, tools, appsec, bb
 https://t.me/open_source_friend @ustugovva - news, tools
 https://t.me/opennews - news
 https://t.me/oprtr_vlhl
@@ -668,13 +667,11 @@ https://t.me/qcakz @rockyou - news, pentest
 https://t.me/qeewqw
 https://t.me/cwgsecurity
 https://t.me/quantumcrypto_official
-https://t.me/qwqoro @qwqoro
 https://t.me/R00TK1TOFF - news
 https://t.me/r1v3ns_life @rive_n - bb, news, tools, appsec, redteam
 https://t.me/radcop_online @SurmatMG - business
 https://t.me/RalfHackerChannel @hackerralf8 - news, tools, pentest
-https://t.me/RalfHackerPublicChat
-https://t.me/razehell - news, tools, appsec, bb
+https://t.me/RalfHackerPublicChat - chat
 https://t.me/rebrainme - business
 https://t.me/recruitersblog @irina_choy - job
 https://t.me/RedBlueHit
