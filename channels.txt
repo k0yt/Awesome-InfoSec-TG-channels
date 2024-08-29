@@ -677,7 +677,7 @@ https://t.me/RedTeamFeed - news, tools, redteam, pentest, eng
 https://t.me/redteammanager - news, appsec, redteam, pentest
 https://t.me/RESOLUTEATTACK - business
 https://t.me/reverb_neuron @evgenzhaba - fun
-https://t.me/reverse_domain @yuumitaka0 - news, tools, reverse
+https://t.me/reverse_domain @yuumitaka0 - noactive, news, tools, reverse
 https://t.me/reverse_dungeon @truebad0ur - news, tools, reverse
 https://t.me/reversers
 https://t.me/reworr_notes - news, tools, pentest
@@ -708,7 +708,7 @@ https://t.me/s0i37_channel @s0i37 - news, tools, pentest
 https://t.me/s3Ch1n7 @ant19ova - news
 https://t.me/S_E_Book 
 https://t.me/S_E_Reborn @SEAdm1n - news, tools, pentest
-https://t.me/sad51d3 @shaw3rma - news, tools, reverse
+https://t.me/sad51d3 @shaw3rma - noactive, news, tools, reverse
 https://t.me/safebdv
 https://t.me/safelinux
 https://t.me/SafetyJacket @issharov - news, tools, appsec, devsecops, fun
@@ -816,7 +816,7 @@ https://t.me/tomhunter @ibederov - business, news, osint, fun
 https://t.me/tonchikru
 https://t.me/TrickeryHub @rekreker
 https://t.me/tricky_python @korneevm - news, tools, py
-https://t.me/tripsandthoughts - fun, bb
+https://t.me/tripsandthoughts - fun, bb, noactive
 https://t.me/TrTrTr8holes - news, fun
 https://t.me/true_sec - news, tools, pentest
 https://t.me/true_secator - news
