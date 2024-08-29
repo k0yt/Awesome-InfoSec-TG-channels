@@ -14,9 +14,7 @@ https://t.me/+WVmp1rZDU-6y8kBh - chat, ctf
 https://t.me/+xm_pqV3djrZhYzBi
 https://t.me/a_storyteller_from_God
 https://t.me/ad_poheque - news, osint, pentest
-https://t.me/addlist/17y04EbNMrlhNjZi
-https://t.me/addlist/9kgF0ahLKmE4ZTk0
-https://t.me/addlist/ue6KNtcxOXhhZTVi
+https://t.me/addlist/17y04EbNMrlhNjZi - proglib
 https://t.me/aenix_io - business, news
 https://t.me/agile_minutes - fun
 https://t.me/agony057
@@ -75,6 +73,7 @@ https://t.me/beescp - news, appsec, bb
 https://t.me/BeholderIsHereHub @Beholderisher - news, tools, fun
 https://t.me/belyaevsec @da_belyaev - news, fun
 https://t.me/bessec
+https://t.me/PentestingWeb - tools, bb 
 https://t.me/bezopasno_soft - news, tools
 https://t.me/bh_cat @belka_e - redteam, appsec, devsecops, tools, fun
 https://t.me/bimbosec - fun
@@ -448,6 +447,7 @@ https://t.me/KasperskyLab4media
 https://t.me/kasperskylab_ru @KasperskyCrew - business
 https://t.me/kerable - news, blog, tools, fun
 https://t.me/kiberbezpravil
+https://t.me/cybersecurity_chats - chat
 https://t.me/KibHack_Hackathon - chat, events
 https://t.me/kibhackctf - news, ctf
 https://t.me/kibhackctfchat - chat, ctf
@@ -799,6 +799,7 @@ https://t.me/strykerapp - tools, pentest, mobile
 https://t.me/subchan - news, blog, web3, fun
 https://t.me/sycebrex - news, fun
 https://t.me/sydr_fuzz - chat
+https://t.me/dsasinjectxcom - news
 https://t.me/sysadm_in_channel - news, tools
 https://t.me/sysadm_in_up - news, tools
 https://t.me/sysodmins
