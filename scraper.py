@@ -80,4 +80,4 @@ def read_file_and_get_info(filename):
             output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {tags} | {description} \n"
             outfile.write(output_line)
 
-read_file_and_get_info('sorted and uniq.txt')
+read_file_and_get_info('channels.txt')
