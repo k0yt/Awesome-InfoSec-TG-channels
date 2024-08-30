@@ -5,6 +5,7 @@ https://t.me/+_DHwdQwtxKw5NTNi
 https://t.me/+B_oX20tky9Y4YWFi @empty_jack - chat, pentest
 https://t.me/+BIDYaSccjcllODdi @w8boom - bb, web
 https://t.me/+dzE0A7mHxNk1Zjcy
+https://t.me/+fgoLmBk0B1EyODk0
 https://t.me/+i__6ED-eRfkwOTYy
 https://t.me/+rBEO4PbR1K9lOWYy
 https://t.me/+sjAZTf4StS5kMTZi
@@ -160,6 +161,7 @@ https://t.me/critical_bug - bb, news
 https://t.me/croc_it - business
 https://t.me/crocteam - job
 https://t.me/crpn_appsec - news, appsec
+https://t.me/cryptoanal @ne_bknn - fun
 https://t.me/cryptooffensive - news, web3
 https://t.me/csharp_interview_lib
 https://t.me/csharp_problems_lib
@@ -298,7 +300,7 @@ https://t.me/found_lacmus
 https://t.me/FreeVacanciesIT
 https://t.me/friendly_hacking - news
 https://t.me/frontendproglib
-https://t.me/Fu1ureCrew
+https://t.me/Fu1ureCrew - business
 https://t.me/fuckwebsec @fkshell - news, tools, fun
 https://t.me/fuzzing_life @dukebarman - news, tools, fuzz
 https://t.me/fz152pdn
@@ -316,7 +318,7 @@ https://t.me/gis_cybersec
 https://t.me/github_tg @skill8989 - tools
 https://t.me/githubdevs
 https://t.me/githubtrending - news, tools
-https://t.me/gitversenews
+https://t.me/gitversenews - business
 https://t.me/gk_cibit
 https://t.me/go_interview_lib
 https://t.me/go_problems_lib
@@ -469,7 +471,6 @@ https://t.me/lab_hack @seller1346 - news, tools
 https://t.me/lamerZen @Zenmovie - news, tools
 https://t.me/lasagnahowto - tools
 https://t.me/latestjob2023India
-https://t.me/ld_anarchy
 https://t.me/ld_anarchy @deadroot 
 https://t.me/leshamarshal @LeshMarshal - blog
 https://t.me/lifeskipper_channel - blog, fun
@@ -809,7 +810,7 @@ https://t.me/theyforcedme
 https://t.me/thinkpad_aesthetics @CuriV - fun
 https://t.me/ThreatIntelligenceSharing - news, ti
 https://t.me/timewebru
-https://t.me/tinkoff_ctf - chat, ctf
+https://t.me/tinkoffCTFAnswers - ctf
 https://t.me/tmfeed @shapker - news
 https://t.me/tmgroupsecurity @mifkilla - news, tools, pentest
 https://t.me/tomhunter @ibederov - business, news, osint, fun
@@ -823,13 +824,13 @@ https://t.me/true_secator - news
 https://t.me/trueosint
 https://t.me/ttl_news
 https://t.me/tvoijazz @onejazz - news, tools, mobile
-https://t.me/twcloud
+https://t.me/twcloud - business
 https://t.me/typical_n0nvme @n0nvme - news, tools
 https://t.me/uDots_word
 https://t.me/unamer_news @unamer_bot 
 https://t.me/unidataline - news, it, business
-https://t.me/UralSecurity
-https://t.me/usergate
+https://t.me/UralSecurity - business
+https://t.me/usergate - business
 https://t.me/usergatenews - business
 https://t.me/uslssstuff @DCNick3 - news, blog, fun
 https://t.me/v01dch4nn3l @d1m3thyltrypt4m1n3 - news, tools, fun
@@ -837,7 +838,7 @@ https://t.me/vault_of_music
 https://t.me/vecherniy_danya @novalogic
 https://t.me/version6 - chat, network
 https://t.me/vestiispaley - blog, fun
-https://t.me/vGateusergroup
+https://t.me/vGateusergroup - chat, business
 https://t.me/vhd21
 https://t.me/vipnetcustom
 https://t.me/vistehno
@@ -858,7 +859,7 @@ https://t.me/web3pwn @CuriV - chat, web3
 https://t.me/webpwn @i_bo0om - news, tools, pentest
 https://t.me/WebPwnChat - chat, pentest
 https://t.me/wildpayloads - news, pentest, redteam, blueteam
-https://t.me/wndtn
+https://t.me/wndtn - blog
 https://t.me/woomoo @ilin_pt - news, fun
 https://t.me/worlditech - news, devops
 https://t.me/wr3dmast3rvs @wr3dmast3r - news, tools, appsec
@@ -872,15 +873,14 @@ https://t.me/xyuriti - news, pentest, bb
 https://t.me/yafcab - bb, news, tools
 https://t.me/YAH_Channel @empty_jack - news, blog, pentest
 https://t.me/YAH_Tools_Channel - tools, pentest
-https://t.me/yandex_bugbounty - news, bb
-https://t.me/yandex_infrastructure
-https://t.me/YandexCloudEdu
+https://t.me/yandex_bugbounty - news, bb, business
+https://t.me/yandex_infrastructure - business
+https://t.me/YandexCloudEdu - business
 https://t.me/yandexgoinfra - business
 https://t.me/YouPentest - news
 https://t.me/yrrp_official
 https://t.me/zatelecom - news, blog, network
 https://t.me/zema_notes @damnwaree - bb, news, tools
-https://t.me/zer0daylab - news, books, tools
 https://t.me/zhatez @Shark_0909 - news, tools, pentest
 https://t.me/zhovner_hub @zhovner - news, blog, tools, pentest
 https://t.me/zimnitskiy_notes

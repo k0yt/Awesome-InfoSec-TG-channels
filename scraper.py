@@ -3,6 +3,7 @@
 from bs4 import BeautifulSoup
 import requests
 import re
+import time
 
 keywords = [
     "администратор", "админ", "admin", "owner", "модератор", "moderator", "mod",
@@ -50,27 +51,33 @@ def read_file_and_get_info(filename):
     channels = {}
     unique_tags = set()
     line_count = 0
+    it = 0
     with open(filename, 'r', encoding='utf-8') as file:
+        print('Ссылки протухли и не используются: ')
         for line in file:
             line = line.strip()
+            it += 1
             if not line:
                 continue
             parts = line.split(' - ')
             url = parts[0].split('@')[0].strip()
             admin_from_file = '@' + parts[0].split('@')[1].strip() if '@' in parts[0] else ''
             tags = parts[1] if len(parts) > 1 else ''
+            if (it % 250 == 0):
+                time.sleep(20)
             title, subscribers_for_sort, subscribers_display, admin_info, description, is_deleted = get_telegram_channel_info(url, admin_from_file)
             if not is_deleted:
                 channels[url] = (title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags)
                 unique_tags.update([tag.strip() for tag in tags.split(',')])
                 line_count += 1
             else:
-                print(f'Ссылки протухли и не используются: \n{line_count} - {url}')
+                print(f'line: {it} - {url}')
+
                 
     sorted_channels = sorted(channels.values(), key=lambda x: x[1], reverse=True)
     with open('README.md', 'w', encoding='utf-8') as outfile:
         outfile.write("# Awesome-InfoSec-TG-channels \n\n")
-        outfile.write(f"{line_count} channels, for the most part RUS \n")
+        outfile.write(f"{len(sorted_channels)} channels, for the most part RUS \n")
         outfile.write(f"\n**{len(unique_tags)} Unique Tags:**\n")
         for tag in sorted(unique_tags):
             outfile.write(f" {tag}")
