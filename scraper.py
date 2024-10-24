@@ -90,5 +90,9 @@ def read_file_and_get_info(filename):
             admin_display = admin_info if admin_info else ''
             output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {tags} | {description} \n"
             outfile.write(output_line)
+        outfile.write("\n\n ### Useful Bot`s \n")
+        outfile.write("| No | Name | Channel | Thematics | Description |\n")
+        outfile.write("| --- | --- | --- | --- | --- |\n")
+        outfile.write("| 1 | Example | Example | Example | Example |\n")
 
 read_file_and_get_info('channels.txt')
