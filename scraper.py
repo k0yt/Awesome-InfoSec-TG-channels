@@ -85,19 +85,19 @@ def read_file_and_get_info(filename):
         outfile.write("\nUsage: \n > https://t.me/link @admin_name - tag_1, tag_2\n\n")
         outfile.write("\n\n ### Channels \n")
         outfile.write("<details> \n")
-        outfile.write("| No | Name | Num of subs | Admin | Thematics | Description |\n")
-        outfile.write("| --- | --- | --- | --- | --- | --- |\n")
+        outfile.write("> | No | Name | Num of subs | Admin | Thematics | Description |\n")
+        outfile.write("> | --- | --- | --- | --- | --- | --- |\n")
         for index, channel in enumerate(sorted_channels, start=1):
             title, subscribers_for_sort, subscribers_display, admin_info, description, url, tags = channel
             admin_display = admin_info if admin_info else ''
-            output_line = f"| {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {tags} | {description} \n"
+            output_line = f"> | {index} | [{title}]({url}) | {subscribers_display} | {admin_display} | {tags} | {description} \n"
             outfile.write(output_line)
         outfile.write("\n</details> \n")
         outfile.write("\n\n ### Useful Bot`s \n")
         outfile.write("<details> \n")
-        outfile.write("| No | Name | Channel | Thematics | Description |\n")
-        outfile.write("| --- | --- | --- | --- | --- |\n")
-        outfile.write("| 1 | Example | Example | Example | Example |\n")
+        outfile.write("> | No | Name | Channel | Thematics | Description |\n")
+        outfile.write("> | --- | --- | --- | --- | --- |\n")
+        outfile.write("> | 1 | Example | Example | Example | Example |\n")
         outfile.write("\n</details> \n")
 
 read_file_and_get_info('channels.txt')
