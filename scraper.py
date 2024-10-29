@@ -84,7 +84,7 @@ def read_file_and_get_info(filename):
         outfile.write("\n\n**Adding new channels in file 'channels.txt'**\n")
         outfile.write("\nUsage: \n > https://t.me/link @admin_name - tag_1, tag_2\n\n")
         outfile.write("\n\n ### Channels \n")
-        outfile.write("<details> \n")
+        outfile.write("<details> \n\n")
         outfile.write("> | No | Name | Num of subs | Admin | Thematics | Description |\n")
         outfile.write("> | --- | --- | --- | --- | --- | --- |\n")
         for index, channel in enumerate(sorted_channels, start=1):
@@ -94,7 +94,7 @@ def read_file_and_get_info(filename):
             outfile.write(output_line)
         outfile.write("\n</details> \n")
         outfile.write("\n\n ### Useful Bot`s \n")
-        outfile.write("<details> \n")
+        outfile.write("<details> \n\n")
         outfile.write("> | No | Name | Channel | Thematics | Description |\n")
         outfile.write("> | --- | --- | --- | --- | --- |\n")
         outfile.write("> | 1 | Example | Example | Example | Example |\n")
