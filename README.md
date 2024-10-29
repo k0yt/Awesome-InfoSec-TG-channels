@@ -13,7 +13,7 @@ Usage:
 
 
  ### Channels 
-<details> 
+
 | No | Name | Num of subs | Admin | Thematics | Description |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Не баг, а фича](https://t.me/bugfeature) | 323163 members | @andrey_admin |  | оригинальный первоисточник ит-лайфхаков и секретов кибербезопасностиадминистратор: @andrey_admin 
@@ -1060,9 +1060,6 @@ Usage:
 | 1042 | [](https://t.me/+TLh4_X) | 0 members |  |  | you are invited to a group chat on telegram. click to join: 
 | 1043 | [](https://t.me/+BLBTjCFTvqliMzQ6) | 0 members |  |  | you are invited to a group chat on telegram. click to join: 
 | 1044 | [](https://t.me/+IfRIFlLxM) | 0 members |  |  | you are invited to a group chat on telegram. click to join: 
-
-</details> 
-
 
  ### Useful Bot`s 
 <details> 
