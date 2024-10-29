@@ -1063,8 +1063,9 @@ Usage:
 
  ### Useful Bot`s 
 <details> 
-| No | Name | Channel | Thematics | Description |
-| --- | --- | --- | --- | --- |
-| 1 | Example | Example | Example | Example |
+
+> | No | Name | Channel | Thematics | Description |
+> | --- | --- | --- | --- | --- |
+> | 1 | Example | Example | Example | Example |
 
 </details> 
